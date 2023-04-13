@@ -1,4 +1,3 @@
-
 import { throttle } from 'lodash';
 
 const form = document.querySelector('.feedback-form');
